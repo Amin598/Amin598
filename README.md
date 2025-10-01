@@ -1,3 +1,3 @@
-### Gym Activity (last 12 months)
+### Gym Activity
 ![Gym Graph](./gym-graph.svg)
 
